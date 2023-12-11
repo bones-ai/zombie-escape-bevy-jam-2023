@@ -6,7 +6,13 @@ Built in [Rust](https://www.rust-lang.org/) using [Bevy](https://bevyengine.org/
 
 ## Screenshots
 ![screenshot2](/screenshot-2.png)
+---
 ![screenshot](/screenshot.png)
+---
+![screenshot4](/screenshot-4.png)
+---
+![screenshot3](/screenshot-3.png)
+---
 
 ## Usage
 ```bash
