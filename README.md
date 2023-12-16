@@ -25,3 +25,12 @@ cargo run
 - Car controls: WASD / Arrow keys
 - Fire Gun: Hold LMB
 - Turbo Boost: SpaceBar
+
+## Credits
+- Art - https://kenney.nl/
+- Art - https://ashizian.itch.io/2-bits-pack
+- Art - https://vurmux.itch.io/urizen-onebit-tileset
+- Music - https://not-jam.itch.io/not-jam-music-pack
+- Gun Fire - https://happysoulmusic.com/fire-weapons-sound-effects/
+- Turbo - https://pixabay.com/sound-effects/generator-synthetic-63166/
+- Other assets - https://kenney.nl/assets/impact-sounds
