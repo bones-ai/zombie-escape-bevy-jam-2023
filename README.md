@@ -6,6 +6,9 @@
 
 Built in [Rust](https://www.rust-lang.org/) using [Bevy](https://bevyengine.org/) game engine
 
+## Devlog
+[![youtube](https://img.youtube.com/vi/aR1WjrZ00Xo/0.jpg)](https://youtu.be/aR1WjrZ00Xo)
+
 ## Screenshots
 ![screenshot2](/screenshot-2.png)
 ---
